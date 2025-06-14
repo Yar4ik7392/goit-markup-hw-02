@@ -81,7 +81,7 @@ a{
     background-color: #404bbf;
   }
 
-  .our-team-title {
+  .our-tasks-title {
     font-weight: 500;
     font-size: 20px;
     line-height: 1.2;
@@ -89,12 +89,26 @@ a{
     color: #2e2f42;
   }
   
-  .our-team-content {
+  .our-tasks-content {
     line-height: 1.5;
     letter-spacing: 0.02em;
   }
 
+   .our-team-logo {
+    background-color: #f4f4fd;
+   }
+    .our-team-title {
+     font-size: 36px;
+     line-height: 1.11;
+     letter-spacing: 0.02em;
+     text-align: center;
+     text-transform: capitalize;
+     color: #2e2f42;
+    }
 
+    .our-team-workers {
+        background-color: #ffffff;
+    }
 
 .page-footer {
     background-color: #2e2f42;
