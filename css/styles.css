@@ -56,6 +56,22 @@ a{
     color: #404bbf;
 }
 
+.hero-image{
+    background-color: #2e2f42;
+}
+
+.hero-logo {
+    font-size: 56px;
+    line-height: 1.07;
+    text-align: center;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+  }
+
+
+
+
+
 .page-footer {
     background-color: #2e2f42;
 }
