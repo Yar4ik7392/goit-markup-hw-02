@@ -72,7 +72,7 @@ a{
     background-color:#4d5ae5;
     font-weight: 500;
     line-height: 1.5;
-    letter-spacing: 0.02em;
+    letter-spacing: 0.04em;
     color: #ffffff;
     cursor: pointer;
   }
@@ -81,7 +81,19 @@ a{
     background-color: #404bbf;
   }
 
+  .our-team-title {
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 1.2;
+    letter-spacing: 0.02em;
+    color: #2e2f42;
+  }
   
+  .out-team-content {
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    
+  }
 
 
 
