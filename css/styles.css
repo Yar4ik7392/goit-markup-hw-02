@@ -56,11 +56,11 @@ a{
     color: #404bbf;
 }
 
-.hero-image {
+.my-image {
     background-color: #2e2f42;
 }
 
-.hero-logo {
+.my-logo {
     font-size: 56px;
     line-height: 1.07;
     text-align: center;
@@ -68,6 +68,13 @@ a{
     color: #ffffff;
   }
 
+  .my-button {
+    background-color:#4d5ae5;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
+    color: #ffffff;
+  }
 
 
 
