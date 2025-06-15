@@ -47,8 +47,8 @@ a{
     color: #434455;
 }
 
-.nav-link:hover,
-.nav-link:focus{
+.nav-item:hover,
+.nav-item:focus{
     color: #404bbf; 
 }
 .contacts-link:hover,
