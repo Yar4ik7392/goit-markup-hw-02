@@ -55,10 +55,6 @@ a{
 .contacts-link:focus {
     color: #404bbf;
 }
-.contact-list:hover,
-.contact-list:focus{
-    color: #404bbf;
-}
 
 .my-image {
     background-color: #2e2f42;
@@ -147,7 +143,6 @@ a{
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
-
 }
 .logo-part{
     color: #f4f4fd;
