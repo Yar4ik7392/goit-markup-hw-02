@@ -55,6 +55,10 @@ a{
 .contacts-link:focus {
     color: #404bbf;
 }
+.contact-list:hover,
+.contact-list:focus{
+    color: #404bbf;
+}
 
 .my-image {
     background-color: #2e2f42;
