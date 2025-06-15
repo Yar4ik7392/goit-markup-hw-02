@@ -66,10 +66,6 @@ a{
     text-align: center;
     letter-spacing: 0.02em;
     color: #ffffff;
-  }
-.logo-part:hover,
-.logo-part:focus {
- background-color: #404bbf;
 }
 
   .my-button {
